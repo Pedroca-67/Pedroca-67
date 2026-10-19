@@ -60,5 +60,5 @@ Aqui estão alguns dos principais projetos que desenvolvi ao longo do curso:
 ---
 
 <div align="center">
-  <sub>Desenvolvido por [Seu Nome] | Estudante SENAI / CEJO</sub>
+  <sub>Desenvolvido por [Pedro] | Estudante SENAI / CEJO</sub>
 </div>
